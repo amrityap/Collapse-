@@ -1,0 +1,27 @@
+#button1{
+width: 10em;
+border-style: solid;
+border-color: #adadeb;
+background-color: #adadeb;
+border-radius: 10%;
+color: white;
+font-weight: bold;
+cursor: pointer;
+margin-bottom: 5px; 
+}
+#button1:hover{
+border-color: #4646d2;
+background-color: #4646d2;
+}
+.popup{
+	margin-top: 0px ;
+width: 100%;
+	border-width: 1px;
+	border-style: solid;
+	border-color: grey;
+}
+.popup-content{
+
+	align-content: center;
+	padding: 10px;
+}
